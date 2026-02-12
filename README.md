@@ -1,6 +1,6 @@
 # Hi, I'm Bhavesh Nayak 👋
 
-I am a B.Tech Computer Science student with strong interest in Artificial Intelligence, System Design, and scalable software development. I enjoy building practical systems that solve real-world problems and continuously work on strengthening my core fundamentals in Data Structures, Algorithms, and Computer Science concepts.
+I am a B.Tech Information Technology student with strong interest in Artificial Intelligence, System Design, and scalable software development. I enjoy building practical systems that solve real-world problems and continuously work on strengthening my core fundamentals in Data Structures, Algorithms, and Computer Science concepts.
 
 I am a fast learner, highly curious about emerging technologies, and actively exploring AI/ML, Blockchain, and performance-oriented development using C/C++.
 
